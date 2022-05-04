@@ -1,5 +1,5 @@
-#Strogonoff de Frango :chicken
-###Ingredientes
+# Strogonoff de Frango 🐔🐔
+### Ingredientes
  - 1 alface
  - 1 cebola
  - 5 batatas
